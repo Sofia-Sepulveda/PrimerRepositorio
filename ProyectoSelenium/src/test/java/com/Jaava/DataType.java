@@ -14,7 +14,7 @@ public class DataType {
 		System.out.println();
 
 		double altura = 2.54;
-		double velocidad = 100.46727;
+		double velocidad = 100.56727;
 
 		System.out.println("Esta es la altura "+altura);
 
