@@ -5,10 +5,13 @@ public abstract class TicketsPark {
 	
 	String welcomeMessage;
 	
+	//CONSTRUCTOR
 	public TicketsPark() {
 		this.welcomeMessage = "Welcome Cooltesters Park - ";
 	}
 	
+	
+	// METODO 
 	public String welcomeMessageString () {
 		return this.welcomeMessage;  
 	}

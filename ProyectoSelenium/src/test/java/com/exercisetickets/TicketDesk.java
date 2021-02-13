@@ -7,8 +7,9 @@ public class TicketDesk {
 		
 		double precioCoolPark = 100;
 		double precioTestersPark= 110;
-		int age=25;
-		boolean student = false;
+		int age=1;
+		boolean student = true;
+		//boolean  cupon = true; // linea tarea 2
 		
 		
 	//	LINEAS SIN POLIMORFISMO
@@ -24,11 +25,17 @@ public class TicketDesk {
 		
 		TicketsPark ticket = new CoolParkTicket (precioCoolPark, age, student);
 		ticket.printPriceDay();
-		ticket.getTicketPrice();
+		double ticket1= ticket.getTicketPrice();
 		
-		ticket = new TestersParkTicket (precioTestersPark, age, student); //LINEA DE POLIMORFISMO
-		ticket.printPriceDay("codigoseguridad","Dia de Madres");
-		ticket.getTicketPrice();
+		ticket = new TestersParkTicket (precioTestersPark,age, student); //LINEA DE POLIMORFISMO
+		//ticket = new TestersParkTicket (precioTestersPark, cupon); //linea tarea 2
+		ticket.printPriceDay();
+		double ticket2 = ticket.getTicketPrice();
+		double total = sumaTickets(ticket1, ticket2);
+		System.out.println("El total a pagar es de: $ " +total);
 	}
-
+	public static double sumaTickets (double ticketTester, double ticketCool) {
+		return ticketTester + ticketCool;
+	}
+	
 }
