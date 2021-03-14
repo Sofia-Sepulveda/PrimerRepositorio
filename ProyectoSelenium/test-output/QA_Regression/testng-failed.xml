@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [QA_Regression]" parallel="tests">
+  <test thread-count="3" name="TC003(failed)" parallel="tests">
+    <classes>
+      <class name="com.opensource.admin.qa.TC003_Admin_AddNewUser_POM">
+        <methods>
+          <include name="afterTest"/>
+          <include name="TC003_Admin_AddNewUser_POM_TestScript"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- com.opensource.admin.qa.TC003_Admin_AddNewUser_POM -->
+    </classes>
+  </test> <!-- TC003(failed) -->
+  <test thread-count="3" name="TC001(failed)" parallel="tests">
+    <classes>
+      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="TC001_Admin_SearchEmployee_POM_TestScript"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM -->
+    </classes>
+  </test> <!-- TC001(failed) -->
+  <test thread-count="3" name="TC002(failed)" parallel="tests">
+    <classes>
+      <class name="com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="TC002_Admin_SearchEmployee_NotExist_POM_TestScript"/>
+        </methods>
+      </class> <!-- com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM -->
+    </classes>
+  </test> <!-- TC002(failed) -->
+</suite> <!-- Failed suite [QA_Regression] -->
