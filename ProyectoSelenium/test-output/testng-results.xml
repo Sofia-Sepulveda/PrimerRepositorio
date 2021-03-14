@@ -1,8 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
     <line>
+      <![CDATA[Open Browser]]>
+    </line>
+    <line>
       <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field Username]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field Username]]>
+    </line>
+    <line>
+      <![CDATA[Click Add]]>
+    </line>
+    <line>
+      <![CDATA[Enter EmployeeName]]>
+    </line>
+    <line>
+      <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Enter UserName]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Password]]>
+    </line>
+    <line>
+      <![CDATA[Save Button]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field Username]]>
+    </line>
+    <line>
+      <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
+      <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange OpenSource]]>
     </line>
     <line>
       <![CDATA[Login into Orange OpenSource]]>
@@ -14,10 +119,232 @@
       <![CDATA[Click Admin - Go to the admin page]]>
     </line>
     <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Click Add]]>
+    </line>
+    <line>
+      <![CDATA[Click Add]]>
+    </line>
+    <line>
+      <![CDATA[Enter EmployeeName]]>
+    </line>
+    <line>
+      <![CDATA[Enter EmployeeName]]>
+    </line>
+    <line>
+      <![CDATA[Enter UserName]]>
+    </line>
+    <line>
+      <![CDATA[Enter UserName]]>
+    </line>
+    <line>
+      <![CDATA[Select User Status]]>
+    </line>
+    <line>
+      <![CDATA[Select Value from List]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[Enter Password]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Password]]>
+    </line>
+    <line>
+      <![CDATA[Confirm Password]]>
+    </line>
+    <line>
+      <![CDATA[Save Button]]>
+    </line>
+    <line>
+      <![CDATA[Save Button]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Search username in field Username]]>
+    </line>
+    <line>
+      <![CDATA[Login into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Search in table Results]]>
+    </line>
+    <line>
+      <![CDATA[Validate in Table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Validate that you have logged in successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout into Orange OpenSource]]>
+    </line>
+    <line>
+      <![CDATA[Click Admin - Go to the admin page]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+    <line>
       <![CDATA[Search username in field Username]]>
     </line>
     <line>
       <![CDATA[Verify value in search table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Select User From Table]]>
+    </line>
+    <line>
+      <![CDATA[Click Delete user]]>
+    </line>
+    <line>
+      <![CDATA[Verify Popup Delete]]>
+    </line>
+    <line>
+      <![CDATA[Get Value From Class]]>
+    </line>
+    <line>
+      <![CDATA[Click OK in Delete message]]>
+    </line>
+    <line>
+      <![CDATA[Search in table Results]]>
+    </line>
+    <line>
+      <![CDATA[Validate in Table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
+    </line>
+    <line>
+      <![CDATA[Get value from table]]>
     </line>
     <line>
       <![CDATA[Logout into Orange OpenSource]]>
@@ -26,17 +353,20 @@
       <![CDATA[Close Browser]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="70636" started-at="2021-02-20T18:19:21 CST" finished-at="2021-02-20T18:20:32 CST">
+  <suite name="QA_Regression" duration-ms="182325" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:33:39 CST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="70636" started-at="2021-02-20T18:19:21 CST" finished-at="2021-02-20T18:20:32 CST">
-      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@26aa12dd]" name="beforeTest" is-config="true" duration-ms="48963" started-at="2021-02-20T18:19:21 CST" finished-at="2021-02-20T18:20:10 CST">
+    <test name="TC002" duration-ms="101483" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:32:18 CST">
+      <class name="com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM@291ae]" name="beforeTest" is-config="true" duration-ms="28253" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:31:05 CST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="TC001_Admin_SearchEmployee_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@26aa12dd]" name="TC001_Admin_SearchEmployee_POM_TestScript" duration-ms="20714" started-at="2021-02-20T18:20:10 CST" finished-at="2021-02-20T18:20:31 CST">
+        <test-method status="PASS" signature="TC002_Admin_SearchEmployee_NotExist_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM@291ae]" name="TC002_Admin_SearchEmployee_NotExist_POM_TestScript" duration-ms="69478" started-at="2021-03-13T23:31:05 CST" finished-at="2021-03-13T23:32:15 CST">
           <reporter-output>
+            <line>
+              <![CDATA[Open Browser]]>
+            </line>
             <line>
               <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
             </line>
@@ -59,8 +389,51 @@
               <![CDATA[Logout into Orange OpenSource]]>
             </line>
           </reporter-output>
+        </test-method> <!-- TC002_Admin_SearchEmployee_NotExist_POM_TestScript -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM@291ae]" name="afterTest" is-config="true" duration-ms="3243" started-at="2021-03-13T23:32:15 CST" finished-at="2021-03-13T23:32:18 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC002_Admin_SearchEmployee_NotExist_POM -->
+    </test> <!-- TC002 -->
+    <test name="TC001" duration-ms="103798" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:32:20 CST">
+      <class name="com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@5c30a9b0]" name="beforeTest" is-config="true" duration-ms="29034" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:31:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC001_Admin_SearchEmployee_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@5c30a9b0]" name="TC001_Admin_SearchEmployee_POM_TestScript" duration-ms="73718" started-at="2021-03-13T23:31:06 CST" finished-at="2021-03-13T23:32:19 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange OpenSource]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field Username]]>
+            </line>
+            <line>
+              <![CDATA[Verify value in search table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange OpenSource]]>
+            </line>
+          </reporter-output>
         </test-method> <!-- TC001_Admin_SearchEmployee_POM_TestScript -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@26aa12dd]" name="afterTest" is-config="true" duration-ms="469" started-at="2021-02-20T18:20:31 CST" finished-at="2021-02-20T18:20:32 CST">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM@5c30a9b0]" name="afterTest" is-config="true" duration-ms="1012" started-at="2021-03-13T23:32:19 CST" finished-at="2021-03-13T23:32:20 CST">
           <reporter-output>
             <line>
               <![CDATA[Close Browser]]>
@@ -68,6 +441,351 @@
           </reporter-output>
         </test-method> <!-- afterTest -->
       </class> <!-- com.opensource.admin.qa.TC001_Admin_SearchEmployee_POM -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- TC001 -->
+    <test name="TC003" duration-ms="121777" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:32:38 CST">
+      <class name="com.opensource.admin.qa.TC003_Admin_AddNewUser_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC003_Admin_AddNewUser_POM@5119fb47]" name="beforeTest" is-config="true" duration-ms="28653" started-at="2021-03-13T23:30:37 CST" finished-at="2021-03-13T23:31:05 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC003_Admin_AddNewUser_POM_TestScript()[pri:0, instance:com.opensource.admin.qa.TC003_Admin_AddNewUser_POM@5119fb47]" name="TC003_Admin_AddNewUser_POM_TestScript" duration-ms="92252" started-at="2021-03-13T23:31:05 CST" finished-at="2021-03-13T23:32:37 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange OpenSource]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Click Add]]>
+            </line>
+            <line>
+              <![CDATA[Enter EmployeeName]]>
+            </line>
+            <line>
+              <![CDATA[Enter UserName]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Password]]>
+            </line>
+            <line>
+              <![CDATA[Save Button]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field Username]]>
+            </line>
+            <line>
+              <![CDATA[Verify value in search table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange OpenSource]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC003_Admin_AddNewUser_POM_TestScript -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC003_Admin_AddNewUser_POM@5119fb47]" name="afterTest" is-config="true" duration-ms="819" started-at="2021-03-13T23:32:37 CST" finished-at="2021-03-13T23:32:38 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC003_Admin_AddNewUser_POM -->
+    </test> <!-- TC003 -->
+    <test name="TC005" duration-ms="59833" started-at="2021-03-13T23:32:21 CST" finished-at="2021-03-13T23:33:20 CST">
+      <class name="com.opensource.admin.qa.TC005_Admin_CreateUserDisabled_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC005_Admin_CreateUserDisabled_POM@1ab3a8c8]" name="beforeTest" is-config="true" duration-ms="24363" started-at="2021-03-13T23:32:21 CST" finished-at="2021-03-13T23:32:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC005_Admin_CreateUserDisabled_POM_TC()[pri:0, instance:com.opensource.admin.qa.TC005_Admin_CreateUserDisabled_POM@1ab3a8c8]" name="TC005_Admin_CreateUserDisabled_POM_TC" duration-ms="34791" started-at="2021-03-13T23:32:45 CST" finished-at="2021-03-13T23:33:20 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange OpenSource]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Click Add]]>
+            </line>
+            <line>
+              <![CDATA[Enter EmployeeName]]>
+            </line>
+            <line>
+              <![CDATA[Enter UserName]]>
+            </line>
+            <line>
+              <![CDATA[Select User Status]]>
+            </line>
+            <line>
+              <![CDATA[Select Value from List]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Password]]>
+            </line>
+            <line>
+              <![CDATA[Save Button]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field Username]]>
+            </line>
+            <line>
+              <![CDATA[Search in table Results]]>
+            </line>
+            <line>
+              <![CDATA[Validate in Table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange OpenSource]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC005_Admin_CreateUserDisabled_POM_TC -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC005_Admin_CreateUserDisabled_POM@1ab3a8c8]" name="afterTest" is-config="true" duration-ms="662" started-at="2021-03-13T23:33:20 CST" finished-at="2021-03-13T23:33:20 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC005_Admin_CreateUserDisabled_POM -->
+    </test> <!-- TC005 -->
+    <test name="TC004" duration-ms="79145" started-at="2021-03-13T23:32:20 CST" finished-at="2021-03-13T23:33:39 CST">
+      <class name="com.opensource.admin.qa.TC004_Admin_DeleteUser_POM">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.opensource.admin.qa.TC004_Admin_DeleteUser_POM@56620197]" name="beforeTest" is-config="true" duration-ms="25033" started-at="2021-03-13T23:32:20 CST" finished-at="2021-03-13T23:32:45 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC004_Admin_DeleteUser_POM_TC()[pri:0, instance:com.opensource.admin.qa.TC004_Admin_DeleteUser_POM@56620197]" name="TC004_Admin_DeleteUser_POM_TC" duration-ms="53673" started-at="2021-03-13T23:32:45 CST" finished-at="2021-03-13T23:33:38 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching... https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange OpenSource]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Click Add]]>
+            </line>
+            <line>
+              <![CDATA[Enter EmployeeName]]>
+            </line>
+            <line>
+              <![CDATA[Enter UserName]]>
+            </line>
+            <line>
+              <![CDATA[Enter Password]]>
+            </line>
+            <line>
+              <![CDATA[Confirm Password]]>
+            </line>
+            <line>
+              <![CDATA[Save Button]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange OpenSource]]>
+            </line>
+            <line>
+              <![CDATA[Login into Orange OpenSource]]>
+            </line>
+            <line>
+              <![CDATA[Validate that you have logged in successfully]]>
+            </line>
+            <line>
+              <![CDATA[Click Admin - Go to the admin page]]>
+            </line>
+            <line>
+              <![CDATA[Search username in field Username]]>
+            </line>
+            <line>
+              <![CDATA[Verify value in search table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Select User From Table]]>
+            </line>
+            <line>
+              <![CDATA[Click Delete user]]>
+            </line>
+            <line>
+              <![CDATA[Verify Popup Delete]]>
+            </line>
+            <line>
+              <![CDATA[Get Value From Class]]>
+            </line>
+            <line>
+              <![CDATA[Click OK in Delete message]]>
+            </line>
+            <line>
+              <![CDATA[Search in table Results]]>
+            </line>
+            <line>
+              <![CDATA[Validate in Table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Get value from table]]>
+            </line>
+            <line>
+              <![CDATA[Logout into Orange OpenSource]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC004_Admin_DeleteUser_POM_TC -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.opensource.admin.qa.TC004_Admin_DeleteUser_POM@56620197]" name="afterTest" is-config="true" duration-ms="406" started-at="2021-03-13T23:33:38 CST" finished-at="2021-03-13T23:33:39 CST">
+          <reporter-output>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.opensource.admin.qa.TC004_Admin_DeleteUser_POM -->
+    </test> <!-- TC004 -->
+  </suite> <!-- QA_Regression -->
 </testng-results>

@@ -43,6 +43,7 @@ public class Login extends SeleniumWrapper {
 		reporterLog("Logout into Orange OpenSource");
 		click(btn_welcome, "Welcome Button ");
 		click(btn_logout, "Logout Button");
+		takeScreenshot("Logout");
 		implicitWait(5);
 	}
 	

@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -83,11 +84,9 @@ public class TC003_Admin_AddNewUser {
 		driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 		
 		//Step 12
-		Reporter.log("Verify username exist in table");
 		String Name = driver.findElement(By.xpath("//tbody/tr[1]/td[2]")).getText();
 		Assert.assertEquals(Name, "Sofia Sepulveda");
-		
-		
+
 		//Step 13
 		Reporter.log("Log out");
 		driver.findElement(By.xpath("//a [@id ='welcome']")).click();

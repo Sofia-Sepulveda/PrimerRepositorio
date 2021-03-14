@@ -1,4 +1,6 @@
 package com.opensource.admin.qa;
+import java.io.FileNotFoundException;
+
 //Nivel 1
 //Llamados
 import org.openqa.selenium.WebDriver;
@@ -22,15 +24,26 @@ public class TC001_Admin_SearchEmployee_POM {
 	
 	
 	@BeforeTest
-	public void beforeTest() {
+	public void beforeTest() throws FileNotFoundException {
 		//Clase SeleniumWrapper, Objeto seleniumWrapper, new para instanciar y constructor()
 		seleniumWrapper = new SeleniumWrapper(driver); //Instanciar. poner lo de constructor
 		driver = seleniumWrapper.chromeDriverConnection();
 		login = new Login(driver);
 		userManagement = new UserManagement(driver);
 		//Ya tenemos nuestros objetos
-		username  ="Admin";
-		password  = "admin123";
+		
+//		DatosEnDuro
+//		username  ="Admin";
+//		password  = "admin123";
+		
+		
+//		EXCEL
+//		this.username = seleniumWrapper.getCellData(this.getClass().getSimpleName(), 1, 0);
+//		this.password = seleniumWrapper.getCellData(this.getClass().getSimpleName(), 1, 1);
+		
+//		JSON
+		this.username = seleniumWrapper.getJSONValue(this.getClass().getSimpleName(), "username");
+		this.password = seleniumWrapper.getJSONValue(this.getClass().getSimpleName(), "password");
 	}
 
 	@Test
@@ -53,7 +66,7 @@ public class TC001_Admin_SearchEmployee_POM {
 		userManagement.searchUser(username, true);
 		
 		//Step 7
-		userManagement.validateFromSearchTable(username);
+		userManagement.validateFromSearchTable("1", "2", username);
 		
 		//Step 8
 		login.logoutOrange();
